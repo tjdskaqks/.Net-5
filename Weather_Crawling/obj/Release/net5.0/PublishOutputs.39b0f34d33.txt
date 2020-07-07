@@ -1,0 +1,5 @@
+C:\Users\JSH\Source\Repos\Weather_Crawling\Weather_Crawling\bin\Release\net5.0\publish\Weather_Crawling_CMD.exe
+C:\Users\JSH\Source\Repos\Weather_Crawling\Weather_Crawling\bin\Release\net5.0\publish\Weather_Crawling_CMD.dll
+C:\Users\JSH\Source\Repos\Weather_Crawling\Weather_Crawling\bin\Release\net5.0\publish\Weather_Crawling_CMD.deps.json
+C:\Users\JSH\Source\Repos\Weather_Crawling\Weather_Crawling\bin\Release\net5.0\publish\Weather_Crawling_CMD.runtimeconfig.json
+C:\Users\JSH\Source\Repos\Weather_Crawling\Weather_Crawling\bin\Release\net5.0\publish\Weather_Crawling_CMD.pdb
